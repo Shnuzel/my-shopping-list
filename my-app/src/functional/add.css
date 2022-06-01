@@ -1,0 +1,53 @@
+.center {
+    line-height: 30px;
+    height: 20px;
+    text-align: center;
+
+}
+
+.tiny {
+    width: 100px;
+    height: 30px;
+    font-size: larger;
+    color: aliceblue;
+    opacity: 60%;
+}
+
+.text {
+    text-align: center
+}
+
+.middle {
+    text-align: center;
+    
+    opacity: 0.8;
+}
+
+.TextField {
+    display: block;
+    width: 200px;
+    height: 30px;
+    font-size: larger;
+    
+}
+
+.button {
+    width: 40px;
+    height: 55px;
+}
+
+#outlined-basic {
+    background-color: #a4df6d93;
+}
+
+#outlined-basic-label {
+    color: black;
+}
+.large{
+    opacity: 60%;
+}
+
+.pad{
+    padding: 1px;
+}
+
